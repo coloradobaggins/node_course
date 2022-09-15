@@ -1,5 +1,9 @@
 # Info  
 
+"Tabla de multiplicar"  
+
+yargs, colors  
+
 node app --help  
 
 ```  
